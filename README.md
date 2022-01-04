@@ -6,4 +6,4 @@ Learning Github
 # I started with StorageTek, Then EDS, Sun Microsystem, and Oracle. 
 # I have been a youth minister for my church, a scout leader, coached soccer and volleyball.
 # I enjoy doing good. I strive to make a difference. 
-# Goal is to continue to get better at programming and use it to do good for the company I end up working for and in the world at large.
+# My goal is to continue to get better at programming and use it to do good for the company I end up working for and in the world at large.
